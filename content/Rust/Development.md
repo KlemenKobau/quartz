@@ -1,0 +1,2 @@
+- [Shuttle.rs](https://github.com/shuttle-hq/shuttle) - [Shuttle](https://www.shuttle.rs/) is a Rust-native cloud development platform that lets you deploy your Rust apps for free.
+- [Rust skaffold](https://github.com/shaneutt/dcos-k8s-rust-skaffold-demo) - [Kubernetes](Kubernetes/Kubernetes), Deploying Rust to Kubernetes on DC/OS with Skaffold
