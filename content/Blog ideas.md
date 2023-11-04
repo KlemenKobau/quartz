@@ -1,4 +1,4 @@
-## Kubernetes
+## [[Kubernetes]]
 - [ ] Kubernetes operators
 - [ ] Kubernetes storage
 
@@ -11,6 +11,6 @@
 - [ ] a short summary of my masters thesis
 - [ ] The lights out algorithm
 
-## Rust
+## [[Rust]]
 - [ ] Showcase rust crates
 - [ ] Rust async crates vs sync (similar functionality)
