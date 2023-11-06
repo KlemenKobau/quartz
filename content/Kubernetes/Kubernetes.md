@@ -1,5 +1,8 @@
 [Awesome Kubernetes](https://github.com/rust-unofficial/awesome-rust)
 
+## Versions
+- [OKD](https://www.okd.io/)
+
 ## Learning
 - [learnk8s](https://learnk8s.io/) - Kubernetes training for engineers
 - [Kubernetes best practices](https://learnk8s.io/production-best-practices) - Kubernetes production best practices. A curated checklist of best practices designed to help you release to production
@@ -17,6 +20,7 @@
 ## Cluster management
 - [Popeye](https://github.com/derailed/popeye)- Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations.
 - [Kube bench](https://github.com/aquasecurity/kube-bench)- kube-bench is a tool that checks whether Kubernetes is deployed securely by running the checks documented in the [CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes/).
+- [Open cluster management](https://open-cluster-management.io/)
 
 ## Functionality
 - [Cilium](https://github.com/cilium)- open source, cloud native solution for providing, securing, and observing network connectivity between workloads, fueled by the revolutionary Kernel technology [eBPF](https://ebpf.io/).
@@ -26,3 +30,8 @@
 - [Kube virt](https://kubevirt.io/)- KubeVirt technology addresses the needs of development teams that have adopted or want to adopt [Kubernetes](https://kubernetes.io/) but possess existing Virtual Machine-based workloads that cannot be easily containerized.
 - [Dapr](https://github.com/dapr/dapr)- Dapr is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
 - [Kubeflow](https://www.kubeflow.org/)- The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
+
+## Security
+Penetration testing:
+- [Kube hunter](https://github.com/aquasecurity/kube-hunter)
+- [MS threat matrix](https://microsoft.github.io/Threat-Matrix-for-Kubernetes/)
