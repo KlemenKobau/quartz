@@ -31,6 +31,16 @@
 - [Dapr](https://github.com/dapr/dapr)- Dapr is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
 - [Kubeflow](https://www.kubeflow.org/)- The Kubeflow project is dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.
 
+## Metrics and logs
+
+- [Scaphandre](https://github.com/hubblo-org/scaphandre) - Scaphandre is a metrology agent dedicated to electrical power consumption metrics. The goal of the project is to permit to any company or individual to measure the power consumption of its tech services and get this data in a convenient form, sending it through any monitoring or data analysis toolchain.
+- [Node Feature Discovery](https://github.com/kubernetes-sigs/node-feature-discovery) - A Kubernetes add-on for detecting hardware features and system configuration
+- [Kube state metrics](https://github.com/kubernetes/kube-state-metrics) - A simple service that listens to the Kubernetes API server and generates metrics about the state of the objects. It is not focused on the health of the individual Kubernetes components, but rather on the health of the various objects inside, such as deployments, nodes and pods.
+- Open telemetry
+- Blog post: https://thenewstack.io/how-opentelemetry-works-with-kubernetes/
+- Kubernetes monitoring: https://opentelemetry.io/docs/kubernetes/getting-started/
+- Kubernetes operator: https://opentelemetry.io/docs/kubernetes/operator/
+
 ## Security
 Penetration testing:
 - [Kube hunter](https://github.com/aquasecurity/kube-hunter)
