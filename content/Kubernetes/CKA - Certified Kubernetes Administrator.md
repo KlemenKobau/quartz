@@ -2,3 +2,5 @@
 - [Kubernetes Certified Administration](https://github.com/walidshaari/Kubernetes-Certified-Administrator)- Online resources that will help you prepare for taking the Kubernetes Certified Administrator Certification exam.
 - [Linux Foundation Exam Simulators](https://killer.sh/)- Official exam simulator
 	- [Killercoda](https://killercoda.com/)- Related to the official simulator, can try for free
+
+Relevant: [[Kubernetes]]
