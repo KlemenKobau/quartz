@@ -1,1 +1,2 @@
 - [AI dungeon online website](https://play.aidungeon.com/)
+- [Friends and fables](https://www.fables.gg/)
