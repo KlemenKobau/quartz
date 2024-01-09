@@ -18,3 +18,8 @@
   - Namespaces set the visibility of resources, cgroups set the quota
 
 Relevant: [[Kubernetes]], [[Containers]]
+
+# Audit
+
+Linux has a built in auditing functionality **The Linux audit framework**.
+It runs with *systemd* and is described in more detail in https://wiki.archlinux.org/title/Audit_framework
